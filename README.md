@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
   Hi there! 👋
   Welcome to my GitHub profile README. This is a dynamic, visually engaging introduction to who I am, what I love, and what I do!
@@ -8,7 +6,7 @@
 <h1 align="center">Hey there, I'm Keith Kahura Kamau 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00FFB9&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Open+Source+Enthusiast;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00FFB9&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Backend+%26+API+Enthusiast;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -35,9 +33,11 @@
 
 - 🌱 I’m always learning **new frameworks, state management, and backend integrations!**
 
-- 🤝 I’m open to collaborating on **exciting open source projects** and **React/Node.js** applications.
+- 🤝 I’m open to collaborating on **exciting open source projects** and **React/Node.js/Backend** applications.
 
-- 💬 Ask me about **JavaScript, React, Node.js, Python, or anything tech!**
+- 💬 Ask me about **JavaScript, React, Node.js, Python, Express, REST APIs, Databases, or anything backend!**
+
+- 🧑‍💻 I love building scalable, secure, and efficient backend systems (APIs, microservices, authentication, cloud, and more!).
 
 - ⚡ Fun fact:  
   <b>I love UI/UX design and enjoy creating seamless user experiences! 🎨</b>
@@ -47,17 +47,39 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img src="https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=zustand&logoColor=white" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white" />
+
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+---
+
+## ⚙️ Backend & DevOps Interests
+
+- **API Development:** RESTful APIs, authentication (JWT, OAuth2), error handling, testing.
+- **Databases:** PostgreSQL, MongoDB, SQLite. Data modeling, migrations, and performance tuning.
+- **Cloud & DevOps:** Docker, deployment, CI/CD, scalable architectures.
+- **Security:** Best practices, rate limiting, input validation, secure authentication flows.
+- **Performance:** Caching with Redis, background jobs, optimizing queries, profiling.
 
 ---
 
