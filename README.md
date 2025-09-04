@@ -6,7 +6,7 @@
 <h1 align="center">Hey there, I'm Keith Kahura Kamau 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00FFB9&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Backend+%26+API+Enthusiast;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00FFB9&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Backend+%26+API+Enthusiast;AI+Explorer+%F0%9F%A7%91%E2%80%8D%F0%9F%96%A5%EF%B8%8F;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,12 +14,8 @@
     <img src="https://img.shields.io/github/followers/keithkahurakamau?label=Follow&style=social" alt="GitHub Followers" />
   </a>
   &nbsp;
-  <a href="mailto:keithkahurakamau@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/keithkahurakamau/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  <a href="mailto:kahurakeith@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kahurakeith@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -31,11 +27,11 @@
   <a href="https://github.com/keithkahurakamau/fakestore-zustand-crud">FakeStore CRUD with Zustand</a>  
   <a href="https://github.com/keithkahurakamau/components-props-lab">React Components & Props Lab</a>
 
-- 🌱 I’m always learning **new frameworks, state management, and backend integrations!**
+- 🌱 I’m always learning **new frameworks, state management, backend integrations, and AI technologies!**
 
-- 🤝 I’m open to collaborating on **exciting open source projects** and **React/Node.js/Backend** applications.
+- 🤝 I’m open to collaborating on **exciting open source projects** and **React/Node.js/Backend/AI** applications.
 
-- 💬 Ask me about **JavaScript, React, Node.js, Python, Express, REST APIs, Databases, or anything backend!**
+- 💬 Ask me about **JavaScript, React, Node.js, Python, Express, REST APIs, Databases, Backend, or AI!**
 
 - 🧑‍💻 I love building scalable, secure, and efficient backend systems (APIs, microservices, authentication, cloud, and more!).
 
@@ -67,9 +63,44 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white" />
 
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+---
+
+## 🤖 Deep Dive: Artificial Intelligence
+
+Artificial Intelligence (AI) is transforming every industry—from healthcare and finance to creative arts and robotics. Here’s what excites me about AI:
+
+- **Machine Learning (ML):**  
+  Designing algorithms that can learn from data, adapt to new situations, and make predictions. I have experience with supervised/unsupervised learning, model evaluation, and deployment.
+
+- **Deep Learning:**  
+  Building neural networks for image recognition, natural language processing, and generative tasks. Tools: TensorFlow, PyTorch, Keras.
+
+- **Natural Language Processing (NLP):**  
+  Teaching machines to understand, generate, and interact with human language. Applications include chatbots, summarization, sentiment analysis, and conversational AI.
+
+- **AI Ethics & Responsible AI:**  
+  I care deeply about fairness, transparency, and ethical considerations in AI systems—ensuring models are explainable and unbiased.
+
+- **Recent Interests:**  
+  - Large Language Models (LLMs) & Transformers  
+  - Retrieval-Augmented Generation (RAG)  
+  - Model fine-tuning and prompt engineering  
+  - AI-powered applications and automation
+
+- **Favorite AI Projects:**  
+  - Intelligent assistants that automate workflows  
+  - End-to-end ML pipelines for real-world data  
+  - Open-source AI research and community contributions
 
 ---
 
@@ -83,22 +114,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keithkahurakamau&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=keithkahurakamau&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="400"/>
-</p>
-
----
-
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:keithkahura@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="40"/></a>
-  <a href="https://www.linkedin.com/in/keithkahurakamau/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
-  <a href="https://twitter.com/keithkahura"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40"/></a>
+  <a href="mailto:kahurakeith@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="40" title="kahurakeith@gmail.com"/></a>
   <a href="https://github.com/keithkahurakamau"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40"/></a>
+  <a href="https://twitter.com/keithkahura"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40"/></a>
 </p>
 
 ---
