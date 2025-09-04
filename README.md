@@ -35,8 +35,83 @@
 
 - 🧑‍💻 I love building scalable, secure, and efficient backend systems (APIs, microservices, authentication, cloud, and more!).
 
+- 🤖 I actively use AI as an assistance tool in my development workflow – from automating routine coding tasks to generating ideas, improving productivity, and building smarter solutions.
+
 - ⚡ Fun fact:  
   <b>I love UI/UX design and enjoy creating seamless user experiences! 🎨</b>
+
+---
+
+## 🧑‍💻 Full Stack Development: Deep Dive
+
+### 🖥️ Frontend
+
+- **Frameworks & Libraries:**  
+  My frontend stack is centered on React.js, leveraging hooks, context, and state management libraries like Zustand and Redux for predictable UIs.
+- **Component Architecture:**  
+  I build reusable, atomic components, focusing on maintainability, scalability, and accessibility (a11y).
+- **Styling & UI:**  
+  Proficient with CSS3, Styled-components, Sass, and Tailwind CSS—creating responsive, visually engaging interfaces.
+- **API Integrations:**  
+  Seamlessly connect frontends with RESTful and GraphQL APIs, managing authentication and error states gracefully.
+- **Tooling & Testing:**  
+  Use modern build tools (Vite, Webpack) and testing libraries (Jest, React Testing Library) to ensure performance and reliability.
+
+### 🗄️ Backend
+
+- **Languages & Frameworks:**  
+  Node.js (Express, Fastify), Python (FastAPI, Flask). I design clean, modular, and testable architectures using MVC and service-oriented patterns.
+- **API Design:**  
+  I develop robust RESTful and GraphQL APIs, focusing on clear documentation (Swagger/OpenAPI), versioning, and comprehensive error handling.
+- **Authentication & Security:**  
+  Implement JWT/OAuth2 flows, RBAC/ABAC, input validation, rate limiting, and password hashing for secure systems.
+- **Databases:**  
+  Experience with PostgreSQL, MongoDB, MySQL, and SQLite. I prioritize data modeling, migrations, and performance.
+- **DevOps & Cloud:**  
+  Dockerizing services, orchestrating CI/CD, and deploying to cloud providers (Heroku, Vercel, DigitalOcean). Advocate for infrastructure as code and environment parity.
+- **Performance & Scalability:**  
+  Use Redis for caching, BullMQ/Celery for background jobs, and monitoring tools (Prometheus, Grafana) for robust, scalable services.
+
+### 🔄 Bridging the Gap
+
+- **API-first development:**  
+  The backend provides predictable, versioned endpoints, empowering frontend teams to move quickly and independently.
+- **End-to-end testing:**  
+  Automated testing (Cypress, Supertest) ensures smooth integration across the stack.
+- **Continuous Delivery:**  
+  Every push triggers builds, tests, and deployments for fast and safe delivery.
+
+---
+
+## 🤖 Deep Dive: Artificial Intelligence
+
+Artificial Intelligence (AI) is reshaping tech and society. Here’s how I leverage and contribute to this field:
+
+- **AI as a Tool:**  
+  I use AI-powered tools to enhance my workflow—code completion, bug detection, documentation generation, and rapid prototyping.
+- **Machine Learning (ML):**  
+  Experienced in building models that learn from data, adapt, and make predictions. I use supervised/unsupervised learning, model evaluation, and deployment.
+- **Deep Learning:**  
+  I build neural networks for tasks like image recognition and NLP using frameworks like TensorFlow and PyTorch.
+- **Natural Language Processing (NLP):**  
+  Passionate about teaching machines to understand and generate human language—working on chatbots, summarization, and conversational AI.
+- **Ethics, Fairness & Responsible AI:**  
+  I champion transparency, fairness, and ethical AI—ensuring my models are unbiased and explainable.
+- **Recent Interests:**  
+  - Large Language Models (LLMs) & Transformers  
+  - Retrieval-Augmented Generation (RAG)  
+  - Model fine-tuning and prompt engineering  
+  - AI-powered apps and automation
+
+---
+
+## ⚙️ Backend & DevOps Interests
+
+- **API Development:** RESTful APIs, authentication (JWT, OAuth2), error handling, testing.
+- **Databases:** PostgreSQL, MongoDB, SQLite. Data modeling, migrations, and performance tuning.
+- **Cloud & DevOps:** Docker, deployment, CI/CD, scalable architectures.
+- **Security:** Best practices, rate limiting, input validation, secure authentication flows.
+- **Performance:** Caching with Redis, background jobs, optimizing queries, profiling.
 
 ---
 
@@ -72,45 +147,6 @@
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-## 🤖 Deep Dive: Artificial Intelligence
-
-Artificial Intelligence (AI) is transforming every industry—from healthcare and finance to creative arts and robotics. Here’s what excites me about AI:
-
-- **Machine Learning (ML):**  
-  Designing algorithms that can learn from data, adapt to new situations, and make predictions. I have experience with supervised/unsupervised learning, model evaluation, and deployment.
-
-- **Deep Learning:**  
-  Building neural networks for image recognition, natural language processing, and generative tasks. Tools: TensorFlow, PyTorch, Keras.
-
-- **Natural Language Processing (NLP):**  
-  Teaching machines to understand, generate, and interact with human language. Applications include chatbots, summarization, sentiment analysis, and conversational AI.
-
-- **AI Ethics & Responsible AI:**  
-  I care deeply about fairness, transparency, and ethical considerations in AI systems—ensuring models are explainable and unbiased.
-
-- **Recent Interests:**  
-  - Large Language Models (LLMs) & Transformers  
-  - Retrieval-Augmented Generation (RAG)  
-  - Model fine-tuning and prompt engineering  
-  - AI-powered applications and automation
-
-- **Favorite AI Projects:**  
-  - Intelligent assistants that automate workflows  
-  - End-to-end ML pipelines for real-world data  
-  - Open-source AI research and community contributions
-
----
-
-## ⚙️ Backend & DevOps Interests
-
-- **API Development:** RESTful APIs, authentication (JWT, OAuth2), error handling, testing.
-- **Databases:** PostgreSQL, MongoDB, SQLite. Data modeling, migrations, and performance tuning.
-- **Cloud & DevOps:** Docker, deployment, CI/CD, scalable architectures.
-- **Security:** Best practices, rate limiting, input validation, secure authentication flows.
-- **Performance:** Caching with Redis, background jobs, optimizing queries, profiling.
 
 ---
 
